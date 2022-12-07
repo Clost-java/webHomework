@@ -1,11 +1,16 @@
 <script setup>
-import app from'./components/index.vue'
+import test from './components/DownLoad/Header.vue' 
+import Banner from './components/Premium/Content.vue'
+import Footer from './components/DownLoad/Footer.vue'
+
 </script>
 
 <template>
-<app/>
+<test/>
+<Banner/>
+<!-- <Footer/> -->
+ 
 </template>
 
 <style scoped>
-
 </style>
